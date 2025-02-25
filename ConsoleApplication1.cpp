@@ -14,6 +14,6 @@ int main()
 
     float y = log(x);
 
-    cout << "y: "<< y;
+    cout << "y: "<< 2*y;
 
 }
